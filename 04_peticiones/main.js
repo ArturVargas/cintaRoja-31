@@ -48,3 +48,13 @@ const getSomething = (path, id) => {
 };
 
 getSomething('people', '3');
+
+
+
+
+
+
+
+
+
+
